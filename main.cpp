@@ -7,8 +7,6 @@
 #include <thread>
 #include <vector>
 
-#define sq(x) x*x
-
 using namespace std;
 
 
